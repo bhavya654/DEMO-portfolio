@@ -27,6 +27,6 @@ Feel free to connect with me:
 
 Email: bhavyaksingh654@gmail.com
 
-LinkedIn: [your LinkedIn]
+LinkedIn: www.linkedin.com/in/bhavya-kumar-singh-567a48289
 
-GitHub: [your GitHub profile]
+GitHub: https://github.com/bhavya654
