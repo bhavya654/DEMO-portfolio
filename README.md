@@ -8,7 +8,7 @@ This is a personal portfolio website built using HTML and CSS. It’s responsive
 🚀 Technologies Used : HTML and CSS
 
 📸 Live Demo
-Check out the live version here: Your GitHub Pages Link
+Check out the live version here: https://demo-portfolio-rouge.vercel.app/
 
 🎯 Goals
 This project helps me:
